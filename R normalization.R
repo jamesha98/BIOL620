@@ -1,0 +1,1 @@
+# Author: Jamesha Jones, Date: 02/15/2022, purpose: 2 paragrphs on RMA and MAS5.0 normalization
